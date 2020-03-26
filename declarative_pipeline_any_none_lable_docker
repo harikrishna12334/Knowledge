@@ -1,0 +1,7 @@
+any – Which mean the whole pipeline will run on any available agent.
+
+none – Which mean all the stages under the block will have to declared with agent separately.
+
+label –  this is just a label for the Jenkins environment
+
+docker –  this is to run the pipeline in Docker environment.
